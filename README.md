@@ -3,7 +3,7 @@
 ## Electricity hourly prices in Estonia
 
 This is an analysis of hourly electricity prices in Estonia through history (from year 2013 on). 
-Analysis is conducted weekday-wise and is basing of years and months.
+Analysis is conducted weekday-wise and based on years and months.
 
 The aim is to find general weekly electricity price patterns which could be used to:
 
