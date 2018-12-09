@@ -10,3 +10,7 @@ The aim is to find general weekly electricity price patterns which could be used
 1) knowingly direct own's electricity consuming behavour.
 
 2) create cost-effective schedules for a timer to switch on/off a electricity cosuming device (eg. water heater).
+
+## Usage:
+
+Open  	"Analyze_EE_electricity_prices.ipynb"
