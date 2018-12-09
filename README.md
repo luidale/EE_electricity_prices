@@ -7,6 +7,6 @@ Analysis is conducted weekday-wise and based on years and months.
 
 The aim is to find general weekly electricity price patterns which could be used to:
 
-1) knowingly direct own's electricity consuming behavour
+1) knowingly direct own's electricity consuming behavour.
 
-2) create cost-effective schedules for a timer/ to switch on/off a electricity cosuming device (eg. water heater)
+2) create cost-effective schedules for a timer to switch on/off a electricity cosuming device (eg. water heater).
